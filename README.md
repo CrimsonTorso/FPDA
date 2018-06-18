@@ -21,8 +21,8 @@ This tool will be usable on a server and thus be used to create large botnets. S
 
 # TODO
 
-Create localhost port 8080 to be opened on attack.c access for browser and graphical control
-Allow for multiple connections to manage users to use for a sell point.
+* Create localhost port 8080 to be opened on attack.c access for browser and graphical control
+* Allow for multiple connections to manage users to use for a sell point.
 
 
 
