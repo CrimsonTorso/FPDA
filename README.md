@@ -26,6 +26,8 @@ By storing raw packets, the attacker can send a malicious DOS towards the victim
 
 
 
+# Warning
+[!] Using this tool against a target is illegal, I am not responsible for what you've done with this. [!]
 
 # Author
 
